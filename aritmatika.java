@@ -17,7 +17,9 @@ public class aritmatika {
         }
 
         //Membuat mutator pada class artimatika
-
+        // metode get digunakan untuk mengembalikan nilai 
+        //pada dari variable dengan menggunakan fungsi return 
+        // dan set merupakan method void untuk mensetting atau memberikan nilai pada variable.
         public void setNilaiA(int nilaiA) {
                 this.nilaiA = nilaiA;
         }
